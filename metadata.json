@@ -1,0 +1,9 @@
+{
+  "name": "HimApple AI",
+  "description": "A precision agriculture pilot platform for Kotkhai apple orchards, integrating AI advisory, disease detection, and strategic planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
